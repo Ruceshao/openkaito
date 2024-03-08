@@ -39,7 +39,7 @@ The key is for both the miner and the validator. For miner, it is used to search
 
 Then you can prepare your dotenv file by:
 ```bash
-cp .env.example .env
+cp .env.template .env
 ```
 
 
